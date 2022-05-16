@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565349002330",
+    "project_id": "chucknorrischat-d85b9",
+    "storage_bucket": "chucknorrischat-d85b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565349002330:android:ab2a2f4206ba1a6a6dbc63",
+        "android_client_info": {
+          "package_name": "com.example.chucknorrischat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565349002330-hpo99dgdfj0fao9g1hk2op6o0qbc6l7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1l9BasbiaKMIl23k1Qp4jQq3P-qANNtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565349002330-hpo99dgdfj0fao9g1hk2op6o0qbc6l7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
